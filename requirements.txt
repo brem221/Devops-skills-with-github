@@ -1,0 +1,9 @@
+click
+pytest
+pylint
+black
+fastapi
+uvicorn
+wikipedia
+pytest-cov
+git+https://github.com/LIAAD/yake
